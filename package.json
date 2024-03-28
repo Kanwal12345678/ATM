@@ -1,8 +1,8 @@
 {
-  "name": "@kanwalshahzadi/atm",
-  "version": "2.0.1",
+  "name": "@kanwalshahzadi/atm_machine",
+  "version": "2.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "publishConfig": {
     "access": "public"
