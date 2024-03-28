@@ -52,7 +52,7 @@ if (operationAns.operation === "withdraw") {
   }
 } else if (operationAns.operation === "check balance") {
   console.log(
-    chalk.bgCyanBright(`your remaining account balance is ${myBalance}`)
+    chalk.greenBright(`your remaining account balance is ${myBalance}`)
   );
 } else if (operationAns.operation === "fastcash") {
   let cash = await inquirer.prompt([
