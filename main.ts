@@ -73,6 +73,7 @@ if (operationAns.operation === "withdraw") {
 }
 else{
 
-  console.log(chalk.bgRed(`Invalid Pin code... Please enter your correct 4-Digit pin code!!`));
+  console.log(chalk.red(`Invalid Pin code... Please enter your correct 4-Digit pin code!!`));
 
-}
+
+  }
